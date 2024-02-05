@@ -39,11 +39,11 @@ An app that I would like to build is a (in the future)social way to share your a
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It's my first time making an iOS app! :D
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2024] [Komila Khamidova]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
