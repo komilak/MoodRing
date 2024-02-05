@@ -4,7 +4,7 @@ Submitted by: **Komila Khamidova**
 
 **Mood Ring** is an app that... changes color randomly! err... according to your mood! 
 
-Time spent: **1** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
