@@ -15,6 +15,12 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+<div>
+    <a href="https://www.loom.com/share/34f50d944dc740e9bfb37f516d50af3d">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/34f50d944dc740e9bfb37f516d50af3d-with-play.gif">
+    </a>
+  </div>
+
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
